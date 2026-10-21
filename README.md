@@ -24,7 +24,7 @@ Recommending other springboards is encouraged throughout this project. The point
 
 <details>
 <summary>Diagram source (Mermaid)</summary>
-
+fuck you bastard
 ```mermaid
 flowchart LR
     you["You<br/>Twingate client"]:::you
